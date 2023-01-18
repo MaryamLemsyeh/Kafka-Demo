@@ -56,3 +56,8 @@ msg envoyé vers le topic "topic" et serialisé en format JSON :
 ![topic3](https://user-images.githubusercontent.com/105390951/213137986-640c1c65-8856-4824-a4cb-372876d51df8.PNG)
 
 ![R1 R3 manuel](https://user-images.githubusercontent.com/105390951/213138165-1289af02-bfb9-4ad9-a183-28b83b8c3c10.PNG)
+![image](https://user-images.githubusercontent.com/105390951/213178584-53550005-9f3f-4806-a7d2-a8e3c4266f1a.png)
+![image](https://user-images.githubusercontent.com/105390951/213178690-34f70d24-e54b-423b-a182-f86a82c03867.png)
+
+![image](https://user-images.githubusercontent.com/105390951/213178461-3bc0806d-122b-4997-9251-61e84c15aaba.png)
+
